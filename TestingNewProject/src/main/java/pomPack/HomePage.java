@@ -21,7 +21,7 @@ private WebElement logout;
 
 public void demo() {
 	demo.click();
-	
+	System.out.println("Sheetal raibole selected in MNC");
 	}
 
 public void clickOnLogout() {
