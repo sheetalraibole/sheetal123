@@ -22,6 +22,8 @@ private WebElement logout;
 public void demo() {
 	demo.click();
 	System.out.println("Sheetal raibole selected in MNC");
+	System.out.println("Sandi and Harshu selected in MNC");
+
 	}
 
 public void clickOnLogout() {
