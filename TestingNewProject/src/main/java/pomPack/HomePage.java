@@ -24,6 +24,7 @@ public void demo() {
 	System.out.println("Sheetal raibole selected in MNC");
 	System.out.println("Sandi and Harshu selected in MNC");
 	System.out.println("Sandi and Harshu hike selected in MNC");
+	System.out.println("Praty hard");
 
 	}
 
